@@ -6,9 +6,9 @@
 
 - Innopolis certified specialist
 
-**Languages and frameworks**
+####Languages and frameworks
 
-- Develop stack: 
+**Develop stack**: 
 ![](https://img.shields.io/badge/Python_3.11-blue)
 ![](https://img.shields.io/badge/Django-blue)
 ![](https://img.shields.io/badge/Django_REST_Framework-blue)
@@ -20,7 +20,7 @@
 ![](https://img.shields.io/badge/HTML-blue)
 ![](https://img.shields.io/badge/CSS-blue)
 
-- Data Science stack: 
+**Data Science stack**: 
 ![](https://img.shields.io/badge/-Scikit--Learn-blue)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/seaborn-blue)
 ![](https://img.shields.io/badge/surprise-blue)
 
-- Date Engineer stack: 
+**Date Engineer stack**: 
 ![](https://img.shields.io/badge/SQL-blue)
 ![](https://img.shields.io/badge/Postgresql-blue)
 ![](https://img.shields.io/badge/Docker-blue)
