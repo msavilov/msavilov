@@ -28,4 +28,12 @@
 ![](https://img.shields.io/badge/seaborn-blue)
 ![](https://img.shields.io/badge/surprise-blue)
 
-- Date Engineer stack: SQL/Postgresql/Docker/Linux/DWH/Hadoop/Apache Spark/Airflow
+- Date Engineer stack: 
+![](https://img.shields.io/badge/SQL-blue)
+![](https://img.shields.io/badge/Postgresql-blue)
+![](https://img.shields.io/badge/Docker-blue)
+![](https://img.shields.io/badge/Linux-blue)
+![](https://img.shields.io/badge/DWH-blue)
+![](https://img.shields.io/badge/Hadoop-blue)
+![](https://img.shields.io/badge/-Apache Spark-blue)
+![](https://img.shields.io/badge/Airflow-blue)
