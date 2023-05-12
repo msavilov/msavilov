@@ -3,4 +3,6 @@
 Yandex.Practicum graduate
 Netology graduate
 
-Languages and frameworks: Python/Django/Django REST Framework/Postgresql/Docker/Linux/Unittest/Scikit-Learn/pandas/numpy/
+Develop stack: Python/Django/Django REST Framework/Postgresql/Docker/Linux/Unittest/
+Data Science stack: Scikit-Learn/pandas/numpy/matplotlib/seaborn
+Date Engineer stack: SQL/Docker/DWH/Hadoop/Apache Spark/Airflow
