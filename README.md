@@ -35,5 +35,5 @@
 ![](https://img.shields.io/badge/Linux-blue)
 ![](https://img.shields.io/badge/DWH-blue)
 ![](https://img.shields.io/badge/Hadoop-blue)
-![](https://img.shields.io/badge/-Apache Spark-blue)
+![](https://img.shields.io/badge/Apach -Spark-blue)
 ![](https://img.shields.io/badge/Airflow-blue)
