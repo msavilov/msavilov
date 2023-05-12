@@ -6,7 +6,7 @@
 
 - Innopolis certified specialist
 
-####Languages and frameworks
+###Languages and frameworks
 
 **Develop stack**: 
 ![](https://img.shields.io/badge/Python_3.11-blue)
