@@ -10,6 +10,6 @@
 
 - Develop stack: Python/Django/Django REST Framework/Postgresql/Docker/Linux/Unittest/Java/HTML/CSS
 
-- Data Science stack: Scikit-Learn/pandas/numpy/matplotlib/seaborn
+- Data Science stack: Scikit-Learn/pandas/numpy/matplotlib/seaborn/surprise
 
 - Date Engineer stack: SQL/Docker/DWH/Hadoop/Apache Spark/Airflow
