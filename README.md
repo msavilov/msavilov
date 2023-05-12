@@ -8,10 +8,19 @@
 
 **Languages and frameworks**
 
-- Develop stack: Python/Django/Django REST Framework/Postgresql/Docker/Linux/Unittest/Java/HTML/CSS
+- Develop stack: 
+![](https://img.shields.io/badge/-Python--3.11-blue)
+![](https://img.shields.io/badge/Django-blue)
+![](https://img.shields.io/badge/Django REST Framework-blue)
+![](https://img.shields.io/badge/Postgresql-blue)
+![](https://img.shields.io/badge/Docker-blue)
+![](https://img.shields.io/badge/Linux-blue)
+![](https://img.shields.io/badge/Unittest-blue)
+![](https://img.shields.io/badge/Javat-blue)
+![](https://img.shields.io/badge/HTML-blue)
+![](https://img.shields.io/badge/CSS-blue)
 
 - Data Science stack: 
-![](https://img.shields.io/badge/-Python--3.11-blue)
 ![](https://img.shields.io/badge/-Scikit--Learn-blue)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
