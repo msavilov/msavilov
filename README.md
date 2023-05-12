@@ -9,9 +9,9 @@
 **Languages and frameworks**
 
 - Develop stack: 
-![](https://img.shields.io/badge/-Python--3.11-blue)
+![](https://img.shields.io/badge/Python_3.11-blue)
 ![](https://img.shields.io/badge/Django-blue)
-![](https://img.shields.io/badge/Django--REST--Framework-blue)
+![](https://img.shields.io/badge/Django_REST_Framework-blue)
 ![](https://img.shields.io/badge/Postgresql-blue)
 ![](https://img.shields.io/badge/Docker-blue)
 ![](https://img.shields.io/badge/Linux-blue)
@@ -35,5 +35,5 @@
 ![](https://img.shields.io/badge/Linux-blue)
 ![](https://img.shields.io/badge/DWH-blue)
 ![](https://img.shields.io/badge/Hadoop-blue)
-![](https://img.shields.io/badge/Apach -Spark-blue)
+![](https://img.shields.io/badge/Apach_Spark-blue)
 ![](https://img.shields.io/badge/Airflow-blue)
