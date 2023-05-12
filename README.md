@@ -12,4 +12,4 @@
 
 - Data Science stack: Scikit-Learn/pandas/numpy/matplotlib/seaborn/surprise
 
-- Date Engineer stack: SQL/Docker/DWH/Hadoop/Apache Spark/Airflow
+- Date Engineer stack: SQL/Postgresql/Docker/Linux/DWH/Hadoop/Apache Spark/Airflow
