@@ -9,7 +9,7 @@
 #### Languages and frameworks
 
 - Develop stack: 
-![](https://img.shields.io/badge/Python_3.11-blue)
+![](https://img.shields.io/badge/Python-blue)
 ![](https://img.shields.io/badge/Django-blue)
 ![](https://img.shields.io/badge/Django_REST_Framework-blue)
 ![](https://img.shields.io/badge/Postgresql-blue)
