@@ -22,14 +22,13 @@
 
 - Data Science stack: 
 ![](https://img.shields.io/badge/-Scikit--Learn-blue)
+![](https://img.shields.io/badge/surprise-blue)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
 ![](https://img.shields.io/badge/matplotlib-blue)
 ![](https://img.shields.io/badge/seaborn-blue)
-![](https://img.shields.io/badge/surprise-blue)
 
 - Date Engineer stack: 
-![](https://img.shields.io/badge/SQL-blue)
 ![](https://img.shields.io/badge/Postgresql-blue)
 ![](https://img.shields.io/badge/Docker-blue)
 ![](https://img.shields.io/badge/Linux-blue)
