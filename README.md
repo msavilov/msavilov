@@ -16,9 +16,11 @@
 ![](https://img.shields.io/badge/Docker-blue)
 ![](https://img.shields.io/badge/Linux-blue)
 ![](https://img.shields.io/badge/Unittest-blue)
+[](https://img.shields.io/badge/Algorithms-blue)
 ![](https://img.shields.io/badge/Java-blue)
 ![](https://img.shields.io/badge/HTML-blue)
 ![](https://img.shields.io/badge/CSS-blue)
+
 
 - Data Science stack: 
 ![](https://img.shields.io/badge/-Scikit--Learn-blue)
