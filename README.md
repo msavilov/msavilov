@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/-Scikit--Learn-blue)
 ![](https://img.shields.io/badge/TensorFlow-blue)
 ![](https://img.shields.io/badge/Keras-blue)
+![](https://img.shields.io/badge/NLP)
 ![](https://img.shields.io/badge/pandas-blue)
 ![](https://img.shields.io/badge/numpy-blue)
 ![](https://img.shields.io/badge/matplotlib-blue)
