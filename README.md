@@ -27,6 +27,8 @@
 ![](https://img.shields.io/badge/TensorFlow-blue)
 ![](https://img.shields.io/badge/Keras-blue)
 ![](https://img.shields.io/badge/pandas-blue)
+![](https://img.shields.io/badge/OpenCV-blue)
+![](https://img.shields.io/badge/Pytorch-blue)
 ![](https://img.shields.io/badge/numpy-blue)
 ![](https://img.shields.io/badge/NLP-blue)
 ![](https://img.shields.io/badge/matplotlib-blue)
