@@ -1,4 +1,4 @@
-### Hi! I'm Maksim. Python-developer, Data Scientist and Data Engineer
+### Hi! I'm Maksim. Python developer, Data Scientist and Data Engineer
 
 - Bauman Moscow State Technical University graduate
 
@@ -37,7 +37,8 @@
 ![](https://img.shields.io/badge/Linux-blue)
 ![](https://img.shields.io/badge/DWH-blue)
 ![](https://img.shields.io/badge/Hadoop-blue)
+![](https://img.shields.io/badge/ELT/ETL-blue)
 ![](https://img.shields.io/badge/Apach_Spark-blue)
 ![](https://img.shields.io/badge/Airflow-blue)
-![](https://img.shields.io/badge/MongoDB-blue)
+
 
