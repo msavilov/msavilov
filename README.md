@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/seaborn-blue)
 ![](https://img.shields.io/badge/surprise-blue)
 
-- Date Engineer stack: 
+- Data Engineer stack: 
 ![](https://img.shields.io/badge/Postgresql-blue)
 ![](https://img.shields.io/badge/Docker-blue)
 ![](https://img.shields.io/badge/Linux-blue)
