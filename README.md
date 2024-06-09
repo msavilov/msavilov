@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/FastAPI-blue)
 ![](https://img.shields.io/badge/Postgresql-blue)
 ![](https://img.shields.io/badge/NoSQL-blue)
-
 ![](https://img.shields.io/badge/Docker-blue)
 ![](https://img.shields.io/badge/Linux-blue)
 ![](https://img.shields.io/badge/Java-blue)
