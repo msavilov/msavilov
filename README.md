@@ -10,14 +10,13 @@
 ![](https://img.shields.io/badge/Python-blue)
 ![](https://img.shields.io/badge/Django-blue)
 ![](https://img.shields.io/badge/Django_REST_Framework-blue)
+![](https://img.shields.io/badge/FastAPI-blue)
 ![](https://img.shields.io/badge/Postgresql-blue)
+![](https://img.shields.io/badge/NoSQL-blue)
+
 ![](https://img.shields.io/badge/Docker-blue)
 ![](https://img.shields.io/badge/Linux-blue)
-![](https://img.shields.io/badge/Unittest-blue)
-![](https://img.shields.io/badge/Algorithms-blue)
 ![](https://img.shields.io/badge/Java-blue)
-![](https://img.shields.io/badge/HTML-blue)
-![](https://img.shields.io/badge/CSS-blue)
 
 
 - Data Science stack: 
@@ -41,3 +40,5 @@
 ![](https://img.shields.io/badge/Hadoop-blue)
 ![](https://img.shields.io/badge/Apach_Spark-blue)
 ![](https://img.shields.io/badge/Airflow-blue)
+![](https://img.shields.io/badge/MongoDB-blue)
+
