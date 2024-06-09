@@ -1,10 +1,8 @@
 ### Hi! I'm Maksim. Python-developer, Data Scientist and Data Engineer
 
-- Yandex.Practicum graduate
+- Bauman Moscow State Technical University graduate
 
-- Netology graduate
-
-- Innopolis certified specialist
+- Innopolis graduate
 
 #### Languages and frameworks
 
